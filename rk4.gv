@@ -1,0 +1,37 @@
+digraph RK4 {
+
+  composefx[label="f(x)",ordering=out,fillcolor=red,style=filled]
+  assignk1[label="k1=",fillcolor=blue,style=filled]
+  assignk2[label="k2=",fillcolor=blue,style=filled]
+  ht2d3[label="2/3*h"]
+  plus[label="+"]
+  times[label="*"]
+  x[label="x=",fillcolor=blue, style=filled]
+  assignk1 -> composefx -> {f; x} 
+
+//  times -> {ht2d3; assignk1}
+//  plus -> {x;  times}
+  rankdir=TB;
+  compose[label="f(x+2/3hk_1)", fillcolor=red,style=filled]
+  assignk2 -> compose -> {f; plus} 
+  plus -> {x; times}
+  times[ordering=out]
+  times -> {ht2d3; assignk1}
+
+//  assignxk1 -> xk1;
+ // assignxk1 -> sum;
+
+  sum[label="+"] 
+   sum -> {x; assignk1; assignk2}
+  assignxkp1 [label="xkp1=",fillcolor=blue,style=filled]; 
+  assignxkp1 -> sum;
+
+ // k1
+
+  
+
+
+
+
+
+}

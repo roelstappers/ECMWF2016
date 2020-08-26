@@ -1,0 +1,10 @@
+
+Metop metop;
+IASI Iasimetop(metop);     
+
+auto IasiP = iasimetop &  Thicknes(1000,300) & Thickness(300,100); Thickness would need state as input not possible
+auto IasiP = iasimetop +  p2*Thicknes(1000,300) + p1*Thickness(300,100); Her thickness acts on GOm like  iasimetop 
+
+auto Obsop = IasiP | Conv | ... |  
+
+After minimization how to easily access the components? 

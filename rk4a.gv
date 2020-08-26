@@ -1,0 +1,45 @@
+digraph RK4 {
+  rankdir=LR;
+  thd2[label="* 2/3 h"]
+  thd4[label="* 3/4 h"]
+  thd5[label="* 1/4 h"]
+  f2[label="f"]
+  sum1[label="+"]
+  sum2[label="+"]
+  k1[label="=k1"]
+  k2[label="=k2"]
+  zr[label="return z"]
+   
+  x0 -> x
+  subgraph clusterrk2 {
+   label="Z rk2(const X& x) ";
+   fillcolor=lightgrey; 
+   style=filled; 
+ 
+  x->f -> k1
+  k1 -> thd2 -> sum1;
+  x -> sum1;
+  sum1 -> f2 -> k2-> thd4 -> sum2;
+  k1 -> thd5 -> sum2;
+  x -> sum2 -> dk1 -> dk2 -> zr;
+
+  dk1[label="~k1"]
+  k1 -> dk1;
+  dk2[label="~k2"]
+  k2 -> dk2;
+
+  }
+
+
+zr-> x1;
+k2 -> map [ltail=clusterrk2 lhead=map]
+x1 -> map -> x2;
+
+map2[label="( )"]
+map3[label="( )"]
+"x_0" -> map2 
+"rk2" -> map2 -> "x_1"
+"x_1" -> map3 
+"rk2" -> map3 -> "x_2"
+
+}

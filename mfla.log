@@ -1,0 +1,1694 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.4)  23 NOV 2016 12:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mfla.tex
+(./mfla.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamer.cls
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasercs.s
+ty
+Package: beamerbasercs 2013/12/25 (rcs-revision 31cc758a62ae)
+)
+Document Class: beamer 2013/12/02 3.33 A class for typesetting presentations (r
+cs-revision 332bfd3ce558)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasemodes
+.sty
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasedecod
+e.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseoptio
+ns.sty
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.st
+y
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+) (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgfcore
+.sty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/vol/local_share/apps/TeXLive/texmf-local/tex/latex/ecmwf/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.s
+ty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/systemlayer/pgfsys
+.sty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/utilities/pgfrcs.s
+ty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfuti
+l-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfuti
+l-common-lists.tex))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfuti
+l-latex.def
+\pgfutil@abb=\box34
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs
+.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfs
+ys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkey
+sfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.
+cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfs
+ys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfs
+ys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfs
+yssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfs
+ysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+re.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.cod
+e.tex
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc
+.code.tex
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathutil
+.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathpars
+er.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.code.tex
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.basic.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.trigonometric.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.random.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.comparison.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.base.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.round.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.misc.code.tex)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunc
+tions.integerarithmetics.code.tex)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfloa
+t.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+repoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+repathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+repathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+rescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+regraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen158
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+retransformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+requick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+reobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+repathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+rearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen162
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+reshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count115
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+reimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+reexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box39
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+relayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+retransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfco
+repatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/utilities/xxcolor.
+sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.st
+y
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hype
+rref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/hobsub-gene
+ric.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+ (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/latexconfig/hyperref.c
+fg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `implicit' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count121
+ (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count122
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/oberdiek/rerunfilechec
+k.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaserequi
+res.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasecompa
+tibility.sty
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasefont.
+sty
+Package: beamerbasefont 2013/10/18  (rcs-revision 72f39e01808a)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/sansmathaccent/sansmat
+haccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetrans
+lator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/tran
+slator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/tran
+slator-language-mappings.tex)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasemisc.
+sty
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetwosc
+reens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseoverl
+ay.sty
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetitle
+.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasesecti
+on.sty
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseframe
+.sty
+Package: beamerbaseframe 2013/10/02  (rcs-revision cdc8e9a3aaac)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count136
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseverba
+tim.sty
+Package: beamerbaseverbatim 2012/08/30  (rcs-revision dfdb135076b3)
+\beamer@verbatimfileout=\write4
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseframe
+size.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseframe
+components.sty
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box44
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasecolor
+.sty
+Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasenotes
+.sty
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box45
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetoc.s
+ty
+Package: beamerbasetoc 2013/05/23  (rcs-revision 0fdf5bc43be8)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetempl
+ates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks30
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseauxte
+mplates.sty
+Package: beamerbaseauxtemplates 2013/09/04  (rcs-revision 4ac715c499d0)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaseboxes
+.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbaselocal
+structure.sty
+Package: beamerbaselocalstructure 2013/09/04  (rcs-revision 4ac715c499d0)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasenavig
+ation.sty
+Package: beamerbasenavigation 2013/10/05  (rcs-revision 62be157fe783)
+\beamer@section@min@dim=\dimen176
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetheor
+ems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks32
+\ex@=\dimen177
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen178
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks33
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count152
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/beamerbasetheme
+s.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/theme/be
+amerthemedefault.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/font/bea
+merfontthemedefault.sty
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/color/be
+amercolorthemedefault.sty
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/inner/be
+amerinnerthemedefault.sty
+Package: beamerinnerthemedefault 2013/10/15  (rcs-revision 65cb471f9634)
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/outer/be
+amerouterthemedefault.sty
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/frontendlayer/tikz
+.sty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodul
+eshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box53
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodul
+eplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfc
+omp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/compatibility/pgfc
+omp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/utilities/pgffor.s
+ty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/utilities/pgfkeys.
+sty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkey
+s.code.tex))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.cod
+e.tex))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/utilities/pgffor
+.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.cod
+e.tex)
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/frontendlayer/ti
+kz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/libraries/pgflib
+raryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodul
+ematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
+)
+\tikz@expandcount=\count161
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/frontendlayer/ti
+kz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/frontendlayer/ti
+kz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/frontendlayer/ti
+kz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/pgf/libraries/pgflib
+raryarrows.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen199
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/pgf/utilities/pgfpages
+.sty
+Package: pgfpages 2011/01/05 ver 0.02
+ (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count162
+\calc@Bcount=\count163
+\calc@Adimen=\dimen200
+\calc@Bdimen=\dimen201
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count164
+\calc@Cskip=\skip59
+)
+\pgf@logicalpages=\count165
+\pgf@firstshipout=\count166
+\pgf@lastshipout=\count167
+\pgf@currentshipout=\count168
+\pgf@cpn=\count169
+\pgf@shipoutnextto=\count170
+\pgfphysicalheight=\dimen202
+\pgfphysicalwidth=\dimen203
+\pgfpages@shipoutbox=\box58
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/theme/be
+amerthemeBoadilla.sty
+Package: beamerthemeBoadilla 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/color/be
+amercolorthemerose.sty
+Package: beamercolorthemerose 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/inner/be
+amerinnerthemerounded.sty
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/color/be
+amercolorthemedolphin.sty
+Package: beamercolorthemedolphin 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/themes/outer/be
+amerouterthemeinfolines.sty
+Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
+))
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count171
+\lst@gtempboxa=\box59
+\lst@token=\toks45
+\lst@length=\count172
+\lst@currlwidth=\dimen204
+\lst@column=\count173
+\lst@pos=\count174
+\lst@lostspace=\dimen205
+\lst@width=\dimen206
+\lst@newlines=\count175
+\lst@lineno=\count176
+\lst@maxwidth=\dimen207
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count177
+\lst@skipnumbers=\count178
+\lst@framebox=\box60
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstlang1.st
+y
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+) (./mfla.aux)
+\openout1 = `mfla.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 119.
+
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(15.0pt, 339.94762pt, 9.24774pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=339.94762pt
+* \textheight=244.6939pt
+* \oddsidemargin=-57.26999pt
+* \evensidemargin=-57.26999pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=9.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen208
+\scratchbox=\box61
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen209
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks47
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base
+.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box62
+Package hyperref Info: Link coloring OFF on input line 119.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/generic/oberdiek/gettitlestr
+ing.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count185
+)
+LaTeX Info: Redefining \ref on input line 119.
+LaTeX Info: Redefining \pageref on input line 119.
+LaTeX Info: Redefining \nameref on input line 119.
+ (./mfla.out) (./mfla.out)
+\@outlinefile=\write5
+\openout5 = `mfla.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 119.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 119.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 119.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 119.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 119.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 119.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 119.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-bibliography-dictionary/translator-bibliography-dictionary-English
+.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-environment-dictionary/translator-environment-dictionary-English.d
+ict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-months-dictionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-numbers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/beamer/translator/dict
+s/translator-theorem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 119.
+\c@lstlisting=\count186
+
+(./mfla.nav)
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 123
+.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 123.
+
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 123
+.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 123
+.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 123.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 123.
+LaTeX Font Info:    Try loading font information for U+msa on input line 123.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 123.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 123.
+
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+{/vol/local_share/apps/TeXLive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
+p}]
+(./mfla.toc) [2
+
+] [3
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 268.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 268.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 268.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 268.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 268.
+
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 268.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 268.
+ [4
+
+]
+[5
+
+] [6
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [7
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 13.
+) [8
+
+] [9
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+Overfull \hbox (3.66794pt too wide) in paragraph at lines 13--15
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][] 
+ []
+
+) [10
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [11
+
+] (./mfla.vrb) [12
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [13
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+[14
+
+] [15
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (24.89044pt too high) detected at line 514
+ []
+
+[16
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [17
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (8.89044pt too high) detected at line 604
+ []
+
+[18
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (6.89044pt too high) detected at line 649
+ []
+
+[19
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (0.89044pt too high) detected at line 695
+ []
+
+[20
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [21
+
+] [22
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [23
+
+] (./mfla.vrb) [24
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+[25
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [26
+
+] (./mfla.vrb) [27
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+Overfull \hbox (8.13048pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+
+Overfull \hbox (34.90572pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+) [28
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+Overfull \hbox (8.13048pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+) [29
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+Overfull \hbox (34.90572pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+) [30
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [31
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [32
+
+] (./mfla.vrb) [33
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+[34
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [35
+
+] (./mfla.vrb) [36
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [37
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (3.44096pt too high) detected at line 1124
+ []
+
+[38
+
+] (./mfla.vrb)
+Overfull \vbox (3.44096pt too high) detected at line 1124
+ []
+
+[39
+
+] (./mfla.vrb)
+Overfull \vbox (3.44096pt too high) detected at line 1124
+ []
+
+[40
+
+] (./mfla.vrb)
+Overfull \vbox (3.44096pt too high) detected at line 1124
+ []
+
+[41
+
+] (./mfla.vrb)
+Overfull \vbox (3.44096pt too high) detected at line 1124
+ []
+
+[42
+
+] [43
+
+] [44
+
+] [45
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [46
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [47
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [48
+
+]
+(./mfla.vrb) [49
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [50
+
+] (./mfla.vrb) [51
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [52
+
+]
+(./mfla.vrb) [53
+
+] [54
+
+] [55
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+Overfull \hbox (8.13048pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \vbox (5.99042pt too high) detected at line 1525
+ []
+
+[56
+
+] (./mfla.vrb
+Overfull \hbox (8.13048pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \vbox (5.99042pt too high) detected at line 1525
+ []
+
+[57
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [58
+
+] (./mfla.vrb) [59
+
+] (./mfla.vrb) [60
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+[61
+
+] (./mfla.vrb) [62
+
+] (./mfla.vrb) [63
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb
+(/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (/vol/local_share/apps/TeXLive/2014/texmf-dist/tex/latex/listings/lstlang1.st
+y
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 23--24
+[][][][][][][][][][][][][][] 
+ []
+
+) [64
+
+] (./mfla.vrb
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 23--24
+[][][][][][][][][][][][][][] 
+ []
+
+) [65
+
+] (./mfla.vrb
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.65309pt too wide) in paragraph at lines 23--24
+[][][][][][][][][][][][][][] 
+ []
+
+) [66
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [67
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [68
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb)
+Overfull \vbox (2.6285pt too high) detected at line 2591
+ []
+
+[69
+
+] [70
+
+] [71
+
+] [72
+
+] [73
+
+] [74
+
+] [75
+
+] [76
+
+]
+\openout4 = `mfla.vrb'.
+
+ (./mfla.vrb) [77
+
+] (./mfla.vrb) [78
+
+]
+\tf@nav=\write6
+\openout6 = `mfla.nav'.
+
+\tf@toc=\write7
+\openout7 = `mfla.toc'.
+
+\tf@snm=\write8
+\openout8 = `mfla.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2790.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2790.
+
+(./mfla.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2790.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2790.
+
+Package rerunfilecheck Info: File `mfla.out' has not changed.
+(rerunfilecheck)             Checksum: 4111216905A20014EA1750A90BBC532A;417.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2790.
+ ) 
+Here is how much of TeX's memory you used:
+ 23593 strings out of 493117
+ 460442 string characters out of 6130555
+ 599993 words of memory out of 5000000
+ 26232 multiletter control sequences out of 15000+600000
+ 103470 words of font info for 80 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,21n,60p,451b,1658s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/enc/dvips/lm/lm-mathit.e
+nc}{/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.
+enc}{/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}{/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/
+vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<
+/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmex10.pfb>
+</vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmmi5.pfb>
+</vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmmi6.pfb>
+</vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmmi9.pfb>
+</vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmr6.pfb><
+/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmr9.pfb></
+vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmss10.pfb><
+/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmss8.pfb><
+/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmss9.pfb><
+/vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmssbx10.pf
+b></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmsso10.
+pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmsso8
+.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmsso
+9.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmsy
+10.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lms
+y5.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lms
+y6.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lms
+y9.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/lm/lmt
+t8.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/symbols/msam5.pfb></vol/local_share/apps/TeXLive/2014/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb>
+Output written on mfla.pdf (78 pages, 414405 bytes).
+PDF statistics:
+ 685 PDF objects out of 1000 (max. 8388607)
+ 566 compressed objects within 6 object streams
+ 165 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+

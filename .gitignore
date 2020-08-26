@@ -1,0 +1,13 @@
+*~
+*.dvi
+*.F90
+*.toc
+*.aux
+*.snm
+*.vrb
+*.f90
+*.cpp
+*.nav
+*.fls
+*.out
+*.py

@@ -1,0 +1,24 @@
+digraph RK4 {
+  rankdir=LR;
+  thd2[label="* 2/3 h"]
+  thd4[label="* 3/4 h"]
+  thd5[label="* 1/4 h"]
+  sum1[label="+"]
+  sum2[label="+"]
+  k1[label="=k1"]
+  k2[label="=k2"]
+  z[label="=z"]
+  callf[label="( )"]
+  callf2[label="( )"]
+  x -> callf -> k1;
+  f -> callf; 
+  k1 -> thd2 -> sum1;
+  x -> sum1;
+  sum1 -> callf2 -> k2-> thd4 -> sum2;
+  f -> callf2; 
+  k1 -> thd5 -> sum2;
+  x -> sum2 -> z;
+
+
+  
+}

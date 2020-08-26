@@ -1,0 +1,69 @@
+cat << EOF | dot -Tpdf -o rk2.pdf  
+
+digraph RK4 {
+
+//  We have a pimpl for the map classes. 
+
+
+//f;
+//x;
+
+
+maprk2[label="o"]
+maprk2 -> rk2[dir=back,style=dashed]
+maprk2 -> x0[dir=back]
+
+maprk22[label="o"]
+maprk22 -> rk2[dir=back,style=dashed]
+maprk22 -> maprk2[dir=back]
+
+
+
+subgraph cluster_rk2 { 
+  label="rk2"
+  maphk1[label="o"]
+//  mapk1 -> f[style=dashed,dir=back]
+//  mapk1 -> x[dir=back]
+
+  
+  maph[label="o"]
+  maph -> h23[style=dashed,dir=back];  h23[label="2/3"]
+  maph -> maphk1[dir=back]
+ 
+  sum[label="+"]
+//  sum -> x [dir=back]
+
+  sum -> maph[dir=back]
+
+  
+ maphk2[label="o"]
+//   mapk2 -> f[style=dashed,dir=back]
+   maphk2 -> sum[dir=back]
+
+  rk2[label="+"]
+//  rk2 -> x[dir=back];
+  rk2 -> maphk1[dir=back] ;
+  rk2 -> maphk2[dir=back] ;
+};
+
+rk2 -> x[dir=back];
+sum -> x [dir=back]
+
+hf [label="*"]
+hf -> h[dir=back,style=dashed]
+hf -> f[dir=back,style=dashed]
+
+maphfW[label="o"]
+W -> Stack[dir=back,style=dashed]
+maphfW -> hf[dir=back,style=dashed]
+maphfW -> W[dir=back,style=dashed]
+
+
+
+
+maphk1 -> x[dir=back]
+maphk1 -> maphfW[style=dashed,dir=back]
+maphk2 -> maphfW[style=dashed,dir=back]
+
+}
+EOF
